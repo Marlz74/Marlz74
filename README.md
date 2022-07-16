@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marlz74
 - 👀 I’m interested in cyber security, ethical hacking, web development(mainly backend)
-- 🌱 I’m currently learning web development
+- 🌱 I’m a web developer
 - 💞️ I’m looking to collaborate on project and challenges
 - 📫 How to reach me twitter https://twitter.com/SD_Marlz74 ,facebook https://www.facebook.com/utibe.patrick.52 
 
