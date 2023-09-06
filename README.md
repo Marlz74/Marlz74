@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Marlz74
-- 👀 I’m interested in cyber security, ethical hacking, web development(mainly backend)
-- 🌱 I’m a web developer
-- 💞️ I’m looking to collaborate on project and challenges
-- 📫 How to reach me twitter https://twitter.com/SD_Marlz74 ,facebook https://www.facebook.com/utibe.patrick.52 
+- 👀 I’m a full-stack developer, interested in cyber security, ethical hacking, and networking.
+- 💞️ I’m available to collaborate on projects and challenges
+- 📫 How to reach me Twitter https://twitter.com/SD_Marlz74 ,Facebook https://www.facebook.com/utibe.patrick.52 
 
 <!---
 Marlz74/Marlz74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
